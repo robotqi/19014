@@ -1,0 +1,128 @@
+2143	Cornish	Melanie	0	0	0	F
+2136	Terry	David	0	0	0	F
+2121	Young	Ryan	0	0	0	F
+2119	Hunter	Hannah	0	0	0	F	FED
+2118	Davies	Eric	0	0	0	F
+2116	Hemmings	Katherine	0	0	0	F
+2114	Sharp	Andrea	0	0	0	F
+2113	Wright	Emily	0	0	0	F
+2110	Johnston	Karen	0	0	0	F
+2109	Peters	Sally	0	0	0	F
+2102	Metcalfe	Karen	0	0	0	F
+2100	Rees	Andrea	0	0	0	F
+2099	Wallace	Penelope	0	0	0	F
+2092	Avery	Dylan	0	0	0	F	FED
+2091	Walker	Amelia	0	0	0	F
+2090	Walsh	Sam	0	0	0	F
+2086	Smith	Sam	0	0	0	F
+2077	Smith	Zoe	0	0	0	F
+2076	Vance	Elizabeth	0	0	0	F
+2075	Walsh	Cameron	0	0	0	F	FED
+2072	White	Brian	0	0	0	F
+2065	White	Amelia	0	0	0	F
+2060	Skinner	Diana	0	0	0	F
+2054	Nolan	Jason	0	0	0	F
+2044	Carr	Anna	0	0	0	F
+2043	Vance	Abigail	0	0	0	F
+2094	Blake	Heather	0	0	0	F
+2088	Rees	Joe	0	0	0	F
+2085	Chapman	Emma	0	0	0	F
+2130	Dowd	Anne	0	2	2	Withdrawn	FED
+2120	Walker	Andrew	0.7	2	2.7	Withdrawn
+2107	Walsh	Mary	1.8	2	3.8	Withdrawn
+2070	Kerr	Richard	0	3.8	3.8	Withdrawn
+2083	Abraham	Robert	1.9	2	3.9	Withdrawn
+2073	Ogden	Stewart	2	2	4	Withdrawn
+2048	Hill	Cameron	2.5	2	4.5	Withdrawn
+2162	Randall	Anna	2.6	2	4.6	Withdrawn	FED
+2125	Payne	Emma	1.9	3	4.9	Withdrawn	FED
+2079	McDonald	Jane	2.9	2	4.9	Withdrawn	FED
+2123	Johnston	Diane	3.7	2	5.7	Withdrawn
+2132	Vance	Sam	2.8	3	5.8	Withdrawn
+2115	MacLeod	Jennifer	3.5	2.4	5.9	Withdrawn
+2164	Glover	Justin	3.1	3	6.1	Withdrawn
+2093	Campbell	Nathan	3.7	2.4	6.1	Withdrawn
+2082	Mackay	Ryan	3.9	2.4	6.3	Withdrawn
+2080	Mackenzie	Adam	3	4	7	Withdrawn	FED
+2058	Nolan	Christopher	5.1	2.6	7.7	Withdrawn	FED
+2127	Newman	Mary	5	3.5	8.5	Withdrawn	FED
+2153	Berry	Diane	4.5	4.1	8.6	Withdrawn
+2151	McLean	Diana	3.2	5.6	8.8	Withdrawn	FED
+2049	Lee	Cameron	4.2	5	9.2	Withdrawn
+2134	Short	Donna	5.6	4	9.6	Withdrawn
+2061	Edmunds	Maria	4.3	5.8	10.1	F
+2106	Smith	David	4.9	5.5	10.4	Withdrawn
+2037	Hart	Anthony	8.7	2.4	11.1	Withdrawn	FED
+2071	Terry	Megan	3.5	8.7	12.2	Withdrawn
+2157	Sharp	Connor	5.5	6.82	12.32	Withdrawn
+2156	Carr	Eric	10.4	4	14.4	Withdrawn
+2160	Berry	Alexandra	9.3	5.93	15.23	Withdrawn	FED
+2112	Campbell	Penelope	9.4	7.25	16.65	Withdrawn
+2064	Pullman	Matt	8.5	9	17.5	Withdrawn
+2087	Martin	Olivia	9.6	9.1	18.7	Withdrawn
+2046	Arnold	Jonathan	6.8	12.3	19.1	Withdrawn
+2098	Forsyth	Stewart	10.2	8.98	19.18	Withdrawn
+2149	Peters	Carolyn	11.7	12.1	23.8	F	FED
+2074	Cameron	Penelope	7.7	18.45	26.15	F
+2059	Chapman	Julian	9.5	19	28.5	Withdrawn
+2108	Bower	Karen	14.7	14.49	29.19	F
+2053	Greene	Isaac	11.3	18.6	29.9	F
+2081	Harris	Madeleine	12.9	17.6	30.5	Withdrawn
+2147	Wallace	Bernadette	13.2	18.9	32.1	Withdrawn
+2137	Davies	Brandon	10.9	21.9	32.8	F
+2145	Payne	Alison	15.3	17.98	33.28	F
+2045	Taylor	Rose	12.6	21.85	34.45	F
+2097	Roberts	Elizabeth	12.7	21.99	34.69	F
+2154	Vance	Kimberly	15.4	20.48	35.88	F
+2069	Hardacre	Vanessa	12.3	24.15	36.45	F
+2104	Howard	Jacob	14.5	22.15	36.65	F
+2055	Mills	Fiona	13.3	23.65	36.95	F
+2068	Grant	Paul	11.7	26.54	38.24	F
+2078	Edmunds	Gordon	13.2	25.65	38.85	F
+2138	Quinn	Phil	15.3	23.56	38.86	F
+2084	Baker	Emma	13.5	25.75	39.25	F	FED
+2163	Lewis	Joe	16.3	25	41.3	F
+2047	Hunter	Kylie	14.1	27.5	41.6	F
+2096	Tucker	Keith	12.3	29.6	41.9	F	FED
+2159	Smith	Michael	14.3	28.43	42.73	F
+2038	Arnold	Blake	12.2	30.6	42.8	F	FED
+2117	Jones	Kylie	13.7	30	43.7	F
+2050	Ogden	Grace	16.6	27.75	44.35	F	FED
+2089	Knox	Felicity	13.8	31.2	45	F
+2141	Manning	Amy	16.5	28.68	45.18	F	FED
+2133	James	Virginia	15.6	30.05	45.65	F
+2063	McGrath	Piers	14.9	31.2	46.1	F	FED
+2056	Ogden	Jasmine	15.8	30.85	46.65	F
+2040	Powell	Matt	15.9	30.97	46.87	F	FED
+2142	Watson	Leah	21	26.1	47.1	F
+2126	Robertson	Olivia	16.9	30.4	47.3	F	FED
+2101	Russell	Leah	15.6	31.76	47.36	F
+2103	Blake	Thomas	16	31.53	47.53	F	FED
+2158	Manning	Emma	17.4	30.45	47.85	F
+2124	Alsop	Jessica	16.6	31.5	48.1	F
+2111	Vaughan	Grace	17.3	31.18	48.48	F
+2066	Coleman	Alison	18.2	30.4	48.6	F
+2128	Hart	Thomas	21.6	27.05	48.65	F
+2150	Sanderson	Diane	18.8	29.95	48.75	F
+2051	Abraham	Phil	19.6	29.2	48.8	F
+2067	Reid	Lily	18.2	30.78	48.98	F
+2146	Hardacre	Alexander	17.9	31.1	49	F
+2129	Abraham	Rebecca	19.4	29.83	49.23	F	FED
+2135	Hamilton	Matt	17.3	32	49.3	F
+2122	Mathis	Blake	19.8	29.56	49.36	F
+2052	Powell	Nicholas	17.6	32	49.6	F	FED
+2144	Allan	Elizabeth	19.9	29.95	49.85	F	FED
+2139	Peake	Theresa	19.2	31.4	50.6	F
+2042	Wright	Olivia	19.2	31.41	50.61	F
+2161	Smith	Molly	19.5	31.3	50.8	F	FED
+2131	Nolan	Jack	19.1	31.78	50.88	F
+2148	Ellison	Karen	20.2	30.83	51.03	F	FED
+2057	Paige	Frank	19.5	31.55	51.05	F
+2105	Thomson	Bernadette	21.2	30.6	51.8	F
+2062	Berry	Sam	20	32	52	F
+2095	Forsyth	Rachel	20.5	31.9	52.4	F
+2041	Walker	Gavin	20.4	32	52.4	F
+2039	Henderson	Nathan	20.5	32	52.5	F	FED
+2152	MacDonald	Andrea	22	30.75	52.75	F
+2140	Morgan	Julian	21.1	32	53.1	F
+2155	Avery	Molly	21.5	32	53.5	F
